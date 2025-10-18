@@ -12,7 +12,7 @@ This Is The Tik View Bot Tool
 
 ### 📦 Installation
 1. Save all files in same folder
-2. Install: `git clone https://github.com/Naimulbari444/NHK_TIK_VIEW_BOT`
+2. Install: `git clone https://github.com/Naimulbari444/TIKTOK_VIEW_BOT_V3`
 2. Run: `node main.js`
 3. Dependencies will auto-install
 
